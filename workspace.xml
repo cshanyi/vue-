@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="498d76db-ced8-4083-81b8-e41395aa5cca" name="默认变更列表" comment="2">
+      <change afterPath="$PROJECT_DIR$/api/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CommonAside.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CommonAside.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/views/home/index.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/HelloWorld.vue" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/CommonHeader.vue" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/views/home/index.vue" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="23UoaCedNelCeLxpmOfNCPghPbH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/home" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v14.15.0-win-x64/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.gitee.ui.GiteeSettingsConfigurable" />
+    <property name="ts.external.directory.path" value="E:\WebStorm 2021.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\vuetest\views\home" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\vuetest\src" />
+      <recent name="E:\vuetest\views\user" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm serve">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm serve" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="498d76db-ced8-4083-81b8-e41395aa5cca" name="默认变更列表" comment="" />
+      <created>1641798088104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641798088104</updated>
+      <workItem from="1641798089265" duration="2006000" />
+      <workItem from="1644284655258" duration="8000" />
+      <workItem from="1644284671844" duration="8000" />
+      <workItem from="1644935494167" duration="120000" />
+      <workItem from="1644936707776" duration="14000" />
+      <workItem from="1645166352764" duration="39000" />
+      <workItem from="1646578421871" duration="1840000" />
+      <workItem from="1646619724391" duration="10308000" />
+      <workItem from="1646634424500" duration="667000" />
+      <workItem from="1646646327943" duration="358000" />
+      <workItem from="1646650178311" duration="7522000" />
+      <workItem from="1646660142971" duration="3554000" />
+      <workItem from="1646668838417" duration="153000" />
+      <workItem from="1646716139628" duration="12000" />
+      <workItem from="1646724329510" duration="707000" />
+      <workItem from="1646726745994" duration="9902000" />
+      <workItem from="1646743385297" duration="2868000" />
+      <workItem from="1646803873246" duration="2895000" />
+      <workItem from="1646811656174" duration="625000" />
+      <workItem from="1646812450492" duration="6000" />
+      <workItem from="1646825661362" duration="2502000" />
+      <workItem from="1646903398787" duration="536000" />
+      <workItem from="1646910123603" duration="7000" />
+      <workItem from="1647223127842" duration="2454000" />
+      <workItem from="1647228791927" duration="6000" />
+      <workItem from="1647228841960" duration="13298000" />
+      <workItem from="1647584610771" duration="137000" />
+      <workItem from="1647666200503" duration="2000" />
+      <workItem from="1649217441820" duration="642000" />
+      <workItem from="1649227553258" duration="434000" />
+      <workItem from="1649228060883" duration="271000" />
+      <workItem from="1649228939246" duration="1847000" />
+      <workItem from="1649234871306" duration="3292000" />
+      <workItem from="1649509303195" duration="2761000" />
+      <workItem from="1649589233520" duration="1938000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1649230032048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649230032048</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2">
+      <created>1649230087635</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649230087635</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
